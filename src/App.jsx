@@ -16,7 +16,7 @@ function App() {
 
   const loadingMessages = [
     "Calculating next year with AI",
-    "reading your ahh code",
+    "reading your shit ass code",
     "Calculating spacetime vortexes",
   ];
 
